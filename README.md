@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://niteshsahu107.io)
 <h1 align="center">Hi 👋, I'm Deepika Koche</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://www.shutterstock.com/shutterstock/photos/1982055719/display_1500/stock-vector-happy-girl-with-a-laptop-online-coding-course-concept-flat-design-illustration-online-study-1982055719.jpg" />
+<img align="right" alt="Coding" width="280" src="https://www.shutterstock.com/shutterstock/photos/1982055719/display_1500/stock-vector-happy-girl-with-a-laptop-online-coding-course-concept-flat-design-illustration-online-study-1982055719.jpg" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepika387" alt="deepika387" /></a> </p>
 
