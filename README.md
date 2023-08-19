@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI-BIA, PHP**
+- 🌱 I’m currently learning **AI-BIA, PHP,Python,Machine Learning,Data Anaylsis,sql**
 
 - 💬 Ask me about **PHP**
 
