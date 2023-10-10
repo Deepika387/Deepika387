@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI-BIA, PHP,Python,Machine Learning,Data Anaylsis,sql**
+- 🌱 I’m currently learning **AI-BIA, PHP, Python , Machine Learning , Data Anaylsis , sql**.
 
-- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **deepikakoche@gmail.com**
 
-- 📄 Know about my experiences [DBL COMPANY BHOPAL As a Network Engineer](DBL COMPANY BHOPAL As a Network Engineer)
+- 📄 Know about my experiences [DBL COMPANY Betul As a Network Engineer](DBL COMPANY Betul As a Network Engineer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
